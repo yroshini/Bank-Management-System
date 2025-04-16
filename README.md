@@ -44,7 +44,7 @@ A console-based Java application that simulates core banking operations using Ob
 
 ## 📽📷 Demo
 
-🔗 [Click here to watch the demo video](Bank-Management-System.mp4)
+🔗 [Click here to watch the demo video](https://drive.google.com/file/d/1ef-gtn7RK3JV-vnXcrCfyM_bwuSjvRk_/view?usp=sharing)
 
 
 ## 🧠 What I Learned
